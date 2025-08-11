@@ -1,4 +1,4 @@
-## CSE Capstone (Agile Redesign) — Concise Summary
+## CSE Capstone (Agile Redesign) Concise Summary 
 
 This update replaces Lab 4 (4.1–4.4) and Lab 5 with five agile iterations and keeps Labs 1–3 as planning. Meeting minutes are replaced by GitHub artifacts (issues/PRs/reviews/tags/releases) plus a lightweight Weekly Status Report issue. Labs are protected collaboration time for planning, building, testing, documentation, release, and a short demo; the TA verifies progress via artifacts and the in-lab demo.
 
